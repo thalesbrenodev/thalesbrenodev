@@ -13,31 +13,6 @@ Meu objetivo é construir bases sólidas antes de avançar para frameworks compl
 
 ---
 
-## 🚀 Tecnologias em aprendizado
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
----
-
-## 📚 Estudando atualmente
-- Lógica de programação
-- Estruturas condicionais e de repetição
-- Fundamentos de C#
-- Git e GitHub na prática
-
----
-
-## 📌 Projetos
-*(Projetos simples, focados em aprendizado e prática)*
-
-- 🔹 **Calculadora em C#**  
-  Aplicação de lógica básica, entrada de dados e controle de fluxo
-
-- 🔹 **Projetos HTML/CSS**  
-  Estruturação de páginas e conceitos iniciais de layout
-
 ---
 
 ## 📫 Contato
