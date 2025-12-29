@@ -1,23 +1,62 @@
-# 👋 Olá, eu sou o Thales Breno
+# 👋 Thales Breno
 
-💻 Desenvolvedor em formação, focado em **lógica de programação** e **backend**.  
-Meu objetivo é construir bases sólidas antes de avançar para frameworks complexos.
+### ☕ Desenvolvedor Java Back-end em formação
 
----
-
-## 🧠 Sobre mim
-- 📍 Brasil
-- 🎯 Interesse principal: Backend
-- 🧩 Gosto de entender o *porquê* das coisas, não só copiar código
-- 🚀 Em evolução constante
+Sou desenvolvedor focado em **Java e Spring Boot**, com interesse em backend,
+APIs REST e boas práticas de código.  
+Atualmente estou construindo uma base sólida em **lógica de programação,
+POO e desenvolvimento backend**, sempre priorizando entender o *porquê* das
+soluções, não apenas copiar código.
 
 ---
 
+## 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalesbrenodev@gmail.com)
+
 ---
 
-## 📫 Contato
-- GitHub: https://github.com/thalesbrenodev
+## 🛠️ Linguagens e Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,docker" />
+</p>
 
 ---
 
-> 💡 *Aprendendo todos os dias, um passo de cada vez.*
+## 🚀 Projetos em Destaque
+
+### ☕ API REST com Spring Boot
+- CRUD completo
+- Spring Boot + JPA / Hibernate
+- Validações e tratamento de erros
+- Integração com banco de dados SQL
+
+🔧 *Projeto em desenvolvimento*
+
+---
+
+### 🎮 Jogo Pac-Man (Projeto Extra)
+Projeto desenvolvido para praticar **lógica de programação e JavaScript**,
+mantido como histórico de aprendizado.
+
+🔹 Movimentação do personagem  
+🔹 Sistema de colisão  
+🔹 Pontuação  
+
+🔗 Repositório: https://github.com/thalesbrenodev  
+▶️ Demo: https://thalesbrenodev.github.io/
+
+---
+
+## 📊 Estatísticas
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thalesbrenodev&show_icons=true&theme=dark&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbrenodev&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Java Júnior / Estagiário Backend**, contribuindo
+com soluções bem estruturadas e evoluindo tecnicamente no ecossistema Java.
