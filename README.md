@@ -48,12 +48,19 @@ mantido como histórico de aprendizado.
 ▶️ Demo: https://thalesbrenodev.github.io/
 
 ---
-
 ## 📊 Estatísticas
+
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thalesbrenodev&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbrenodev&layout=compact&theme=dark"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thalesbrenodev&show_icons=true&theme=dark" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesbrenodev&layout=compact&theme=dark" 
+    height="160"
+  />
 </p>
+
 
 ---
 
